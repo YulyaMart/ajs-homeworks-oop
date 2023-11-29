@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701260186402" clover="3.2.0">
+  <project timestamp="1701260186402" name="All files">
+    <metrics statements="41" coveredstatements="41" conditionals="19" coveredconditionals="19" methods="10" coveredmethods="10" elements="70" coveredelements="70" complexity="0" loc="41" ncloc="41" packages="1" files="8" classes="8"/>
+    <file name="Bowerman.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Bowerman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="Character.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Character.js">
+      <metrics statements="22" coveredstatements="22" conditionals="13" coveredconditionals="13" methods="3" coveredmethods="3"/>
+      <line num="3" count="23" type="stmt"/>
+      <line num="12" count="23" type="cond" truecount="5" falsecount="0"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="15" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="19" count="17" type="stmt"/>
+      <line num="20" count="17" type="stmt"/>
+      <line num="21" count="17" type="stmt"/>
+      <line num="22" count="17" type="stmt"/>
+      <line num="23" count="17" type="stmt"/>
+      <line num="24" count="17" type="stmt"/>
+      <line num="28" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="42" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+    <file name="Daemon.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Daemon.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="Magician.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Magician.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="Swordsman.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Swordsman.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="Undead.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Undead.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="Zombie.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\Zombie.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+    </file>
+    <file name="app.js" path="C:\Users\pupko\Documents\Юля_обучение\ajs-homeworks-oop\src\js\app.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
